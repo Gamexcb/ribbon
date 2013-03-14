@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Jump.js">
+    <Files>
+      <File FileName="Assets/Head Ache.js" Line="14" Column="50" />
+      <File FileName="Assets/Jump.js" Line="16" Column="2" />
+      <File FileName="Assets/Move Translate.js" Line="24" Column="3" />
+      <File FileName="Assets/Trigger Action.js" Line="53" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
